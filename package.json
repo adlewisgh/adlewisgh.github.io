@@ -1,0 +1,16 @@
+{
+  "name": "webportfolio",
+  "version": "1.0.0",
+  "description": "Web Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "engines": {
+  "node": "7.2.1",
+  "npm": "3.10.10"
+ },
+  "author": "Andrew Lewis",
+  "license": "ISC"
+}
+
