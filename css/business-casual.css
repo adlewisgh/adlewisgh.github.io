@@ -22,7 +22,11 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('http://wallpaper-gallery.net/images/website-wallpaper/website-wallpaper-2.jpg') no-repeat center center fixed;
+    /*background-image: url("../img/website-wallpaper-2.jpg") no-repeat center center fixed;*/
+    background-image: url("../img/website-wallpaper-2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center, center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
